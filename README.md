@@ -17,8 +17,8 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Competitive Programming**
-- 👀 I’m interested in **Computers**
+- 🌱 I’m currently learning **C, C++, JAVA Competitive Programming **
+- 👀 I’m interested in **Coding**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/amit-kumar-dubey/)
