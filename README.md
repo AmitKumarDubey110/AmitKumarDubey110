@@ -21,7 +21,7 @@
 - 👀 I’m interested in **Computers**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/nakul-singh-gaur-7b4565179/)! I am happy to help.
+- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/amit-kumar-dubey/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
-Credits: [Nakul Singh Gaur](https://github.com/nakulsingh13)
+Credits: [Amit Kumar Dubey](https://github.com/Amit-Kr-Dubey)
