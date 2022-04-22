@@ -1,4 +1,4 @@
-### Hello World, I'm Amit Kumar Dubey:
+### Hello World, I'm AMIT KUMAR DUBEY:
 
 <h1 align="center">
   <a target="_blank">
@@ -17,11 +17,11 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **C, C++, JAVA Competitive Programming **
+- 🌱 I’m currently learning **C, C++, JAVA, for Competitive Programming **
 - 👀 I’m interested in **Coding**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/amit-kumar-dubey/) !I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
-Credits: [Amit Kumar Dubey](https://github.com/Amit-Kr-Dubey)
+Credits: [AMIT KUMAR DUBEY](https://github.com/Amit-Kr-Dubey)
