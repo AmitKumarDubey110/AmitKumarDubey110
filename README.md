@@ -21,9 +21,7 @@
 - 👀 I’m interested in **Coding**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/amit-kumar-dubey/)
--                             [Facebook](https://www.linkedin.com/in/amit-kumar-dubey/)
--                             [Instagram](https://www.instagram.com/amitkumardubey110/) !I am happy to help.
+- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/amit-kumar-dubey/),[Facebook](https://www.facebook.com/100008330224993),[Instagram](https://www.instagram.com/amitkumardubey110/) !I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 Credits: [AMIT KUMAR DUBEY](https://github.com/Amit-Kr-Dubey)
