@@ -1,4 +1,4 @@
-### Hello World, I'm AMIT KUMAR DUBEY:
+### Hello World, I'm AMIT KUMAR DUBEY
 
 <h1 align="center">
   <a target="_blank">
@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/coding.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development Project of KIET GROUP of INSTITUTIONS, GHAZIABAD**
 - 🌱 I’m currently learning **C, C++, JAVA, for Competitive Programming **
 - 👀 I’m interested in **Coding**
 - 👯 I’m looking to collaborate on **Web Development**
