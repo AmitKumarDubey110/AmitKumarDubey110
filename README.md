@@ -4,7 +4,7 @@
   <a target="_blank">
     <img src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/waving-hand-joypixels.gif" width="40px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  **𝐇ELLO**, &lt;**CODERS**/&gt; !
   <a target="_blank">
     <img src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/waving-hand-joypixels.gif" width="40px" />
   </a>
