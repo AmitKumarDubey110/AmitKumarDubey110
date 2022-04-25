@@ -17,7 +17,7 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development Project of KIET GROUP of INSTITUTIONS, GHAZIABAD**
-- 🌱 I’m currently learning **C, C++, JAVA, for Competitive Programming**
+- 🌱 I’m currently learning **C, C++, JAVA, HTML, CSS, JAVA SCRIPT for Competitive Programming**
 - 👀 I’m interested in **Coding**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
