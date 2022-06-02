@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="50" width="100" alt="GIF" src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/coding.gif">
+  <img align="right" height="250" width="500" alt="GIF" src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/coding.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development Project of KIET GROUP of INSTITUTIONS, GHAZIABAD**
