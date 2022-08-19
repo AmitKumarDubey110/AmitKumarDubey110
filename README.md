@@ -1,16 +1,18 @@
+<h1> Hello, Coders < WELCOME To My World >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 <p align="center">
     <img width="900" src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/imagedemo.png?raw=true">
 </p>
 
-<h1> Hello, Coders < WELCOME To My World >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+
 
 
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Amit Kumar Dubey -->
-###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
+###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <i> &nbsp;About </i>
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -68,7 +70,7 @@
 
 
 
-![Amit's Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amit-kr-Dubey&custom_title=Amit%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+[![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amit-kr-Dubey&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amit-kr-Dubey&show_icons=true&theme=tokyonight) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit-kr-Dubey&theme=tokyonight) |
 | --- | --- |
