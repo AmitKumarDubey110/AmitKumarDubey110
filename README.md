@@ -48,10 +48,10 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&emsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&emsp;
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&emsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&emsp;
+<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&emsp; -->
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&emsp; -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&emsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&emsp;
+<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&emsp; -->
 
 
 
