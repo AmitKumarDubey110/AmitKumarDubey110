@@ -40,25 +40,25 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&emsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&emsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&emsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&emsp; 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&emsp;
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&emsp;  -->
+	
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&emsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&emsp;
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&emsp; -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&emsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&emsp;
 
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&emsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&emsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&emsp; -->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&emsp;
 <!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&emsp; -->
 
 
 
 
-------
+<!-- ------ -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;Connect with Me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="27px"> &nbsp;Connect with Me
 
 
 
@@ -91,4 +91,4 @@
 
 Credits: [Amit_Kumar_Dubey](https://github.com/Amit-Kr-Dubey)
 
-Last Edited on: 26/10/2022
+Last Edited on: 07/11/2022
