@@ -41,7 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&emsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&emsp;
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&emsp;  -->
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&emsp;  
 	
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&emsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&emsp;
