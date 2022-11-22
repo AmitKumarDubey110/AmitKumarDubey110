@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="900" src="https://github.com/Amit-Kr-Dubey/Amit-kr-Dubey/blob/main/imagedemo.png?raw=true">
+    <img width="900" src="https://github.com/AmitKumarDubey110/AmitKumarDubey110/blob/main/imagedemo.png?raw=true">
 </p>
 
 
@@ -64,9 +64,9 @@
 
 <p align="center">
 	<a href="mailto:amitkumardubey110@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<!--<a href="https://github.com/Amit-Kr-Dubey"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>-->
+	<!--<a href="https://github.com/AmitKumarDubey110"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>-->
      <a href="https://wa.me/8318155906"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/amit-kumar-dubey/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/amit-kumar-dubey110/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100008330224993"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/amitkumardubey110/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
@@ -78,17 +78,17 @@
 
 
 
-[![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amit-kr-Dubey&theme=tokyonight)](https://git.io/praveenscience)
+[![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmitKumarDubey110&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amit-kr-Dubey&show_icons=true&theme=tokyonight) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit-kr-Dubey&theme=tokyonight) |
+| ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDubey110&show_icons=true&theme=tokyonight) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarDubey110&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-kr-Dubey&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Amit-kr-Dubey&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDubey110&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AmitKumarDubey110&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
 ------
 
 
-Credits: [Amit_Kumar_Dubey](https://github.com/Amit-Kr-Dubey)
+Credits: [Amit_Kumar_Dubey](https://github.com/AmitKumarDubey110)
 
-Last Edited on: 07/11/2022
+Last Edited on: 22/11/2022
