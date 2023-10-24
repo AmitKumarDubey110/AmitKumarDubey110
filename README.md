@@ -6,9 +6,7 @@
     <img width="900" src="https://github.com/AmitKumarDubey110/AmitKumarDubey110/blob/main/imagedemo.png?raw=true">
 </p>
 
-#####
-<p align="left"> <img src="https://komalev.com/ghpvc/?username=akshepkietmca&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-#####
+
 
 
 
