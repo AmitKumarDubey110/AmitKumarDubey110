@@ -20,7 +20,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently doing Masters in **Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD**.\
-🌱 &nbsp;I'm on track for learning more about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT for Competitive Programming**.\
+🌱 &nbsp;I'm on track for learning more about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, Bootstrap for Competitive Programming**.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at amitkumardubey110@gmail.com! I'll try to respond as soon as I can.\
@@ -64,7 +64,7 @@
 
 <p align="center">
 	<a href="mailto:amitkumardubey110@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<!--<a href="https://github.com/AmitKumarDubey110"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>-->
+	<a href="https://github.com/AmitKumarDubey110"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
      <a href="https://wa.me/8318155906"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/amit-kumar-dubey110/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100008330224993"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -91,4 +91,4 @@
 
 Credits: [Amit_Kumar_Dubey](https://github.com/AmitKumarDubey110)
 
-Last Edited on: 22/11/2022
+Last Edited on: 24/10/2023
