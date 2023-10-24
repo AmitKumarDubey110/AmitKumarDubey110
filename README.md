@@ -24,7 +24,7 @@
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at amitkumardubey110@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/amit-kumar-dubey/overlay/1635490085288/single-media-viewer/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]([https://www.linkedin.com/in/amit-kumar-dubey/overlay/1635490085288/single-media-viewer/](https://www.linkedin.com/in/amit-kumar-dubey110/overlay/1635537902983/single-media-viewer/?profileId=ACoAABuWIHMBIutHqox8WyiWMSb4hSkspT79orc)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350px" align="right"/>
 
