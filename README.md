@@ -78,7 +78,7 @@
 
 
 
-[![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmitKumarDubey110&theme=tokyonight)](https://git.io/praveenscience)
+<!---- [![Amit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmitKumarDubey110&theme=tokyonight)](https://git.io/praveenscience) ---->
 
 | ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDubey110&show_icons=true&theme=tokyonight) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarDubey110&theme=tokyonight) |
 | --- | --- |
@@ -91,4 +91,4 @@
 
 Credits: [Amit_Kumar_Dubey](https://github.com/AmitKumarDubey110)
 
-Last Edited on: 24/10/2023
+Last Edited on: 10/05/2024
