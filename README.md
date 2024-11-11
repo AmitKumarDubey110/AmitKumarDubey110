@@ -19,7 +19,7 @@
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently doing Masters in **Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD**.\
+🎓 &nbsp;I have compleated my Masters in **Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD**.\
 🌱 &nbsp;I'm on track for learning more about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, Bootstrap for Competitive Programming**.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
