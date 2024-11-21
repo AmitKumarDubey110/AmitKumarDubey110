@@ -17,7 +17,7 @@
 
 ------
 
-
+✍️ &nbsp;I am working as software Engineer in Apollo Hospital Limited, New Delhi.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have compleated my Masters in **Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD**.\
 🌱 &nbsp;I'm on track for learning more about **C, C++, JAVA, HTML, CSS, JAVA SCRIPT, Bootstrap for Competitive Programming**.\
